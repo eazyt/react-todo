@@ -10,7 +10,7 @@ export class App extends Component {
       }, {
         id: 2,
         title: "eat lunch",
-        completed: false
+        completed: true
       }, {
         id: 3,
         title: "feed the fish",
